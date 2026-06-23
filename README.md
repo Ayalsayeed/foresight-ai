@@ -13,7 +13,7 @@ FurSight AI uses deep learning and computer vision to identify cats from facial 
 ## 🧠 Model
 - Architecture: ResNet50 (pretrained on ImageNet)
 - Loss: Categorical Crossentropy
-- Optimizer: Adam
+- Optimizer: 
 - Accuracy: 92.3% on validation
 
 ## 🏋️‍♀️ Train
